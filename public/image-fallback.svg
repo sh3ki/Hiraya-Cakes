@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 700">
+  <rect width="600" height="700" fill="#f7e9e4"/>
+  <circle cx="300" cy="314" r="167" fill="#fff9f4"/>
+  <path d="M180 393h240l-23-169H203l-23 169Zm-12 10h264v24H168z" fill="#b87580"/>
+  <path d="M203 224c24-36 50-11 72-30 20-18 39 15 62 0 29-21 46 1 60 30" fill="none" stroke="#c5a46d" stroke-width="11" stroke-linecap="round"/>
+  <text x="300" y="560" text-anchor="middle" fill="#432c2f" font-family="Georgia,serif" font-size="37">Hiraya Cakes &amp; Co.</text>
+</svg>
